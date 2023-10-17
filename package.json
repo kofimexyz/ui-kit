@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ui-kit",
+  "name": "@kofime/ui-kit",
   "author": "tqmvt",
   "module": "dist/ui-kit.esm.js",
   "size-limit": [
